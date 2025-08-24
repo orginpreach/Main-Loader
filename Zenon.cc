@@ -1,4 +1,5 @@
 -- I love my gf so much <3
+-- I was able to make this because of my loving carrying beautiful gorgeous stunning pretty wife <3
 
 local GameId = game.GameId
 
@@ -12,4 +13,8 @@ end
 
 if GameId == 4931927012 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/orginpreach/Basketball-Legends/refs/heads/main/You%20can't%20skid%20this%20gng"))()
+end
+
+if GameId == 66654135 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/orginpreach/Murder-Mystery-2/refs/heads/main/You%20can't%20skid%20this%20gng"))()
 end
