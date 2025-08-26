@@ -14,3 +14,7 @@ end
 if GameId == 4931927012 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/orginpreach/Basketball-Legends/refs/heads/main/You%20can't%20skid%20this%20gng"))()
 end
+
+if GameId == 3177453609 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/orginpreach/Therapy/refs/heads/main/You%20can't%20skid%20this%20gng"))()
+end
